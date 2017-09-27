@@ -125,7 +125,7 @@ public class GameListener implements ActionListener{
 			player.play(media_path);*/
 			
 			//FROM VIDEO DIRECTORY
-			result = game.play(player, attack_user_number, true);
+			//result = game.play(player, attack_user_number, true);
 			
 			/*if(attack_number==3)
 				player.play("src/videos/Seiya-Punch.mp4");
